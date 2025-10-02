@@ -1,0 +1,11 @@
+pytesseract
+opencv-python
+Pillow
+pandas
+selenium
+webdriver-manager
+streamlit
+plotly
+PyPDF2
+pdf2image
+regex
