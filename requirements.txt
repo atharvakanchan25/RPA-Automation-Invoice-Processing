@@ -9,3 +9,4 @@ plotly
 PyPDF2
 pdf2image
 regex
+opencv-python-headless
